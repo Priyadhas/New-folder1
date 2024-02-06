@@ -1,10 +1,10 @@
-import java.util.Scanner;
+
 public class firstprogram 
 {
     public static void main(String[] args)
     {
-        Scanner s1=new Scanner (System.in);
-        int s=s1.nextInt();
+        
+        int s=4;
         if(s%2==0)
         {
 
